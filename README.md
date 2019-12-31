@@ -51,7 +51,7 @@ a _200_ status code and the text _I'm here!!_
 
  In a scenario where you're running multiple tests, _supertest_ will
  instantiate a server for each test resulting in port conflicts, if the
- _NodeJS_ server is running [2]
+ _NodeJS_ server is running.
 
  ## References
 
