@@ -1,5 +1,4 @@
 // Example Babel 7 config
-// Server-Side Preact Rendering
 // with esm (most of the time)
 // but Babel handles modules in test
 // so Jest works
